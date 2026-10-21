@@ -1,43 +1,66 @@
-
 # Manual Testing Portfolio
 
-Welcome! I'm Varshit, a Computer Science Engineering graduate building practical skills in software quality assurance and manual testing.
+Hi, I'm Varshit — a 2025 Computer Science Engineering graduate building practical skills in software quality assurance and manual testing.
 
-## Project 1: Website Testing
+This repository showcases my hands-on practice with test case design, functional testing, validation checks, and structured test documentation.
 
-**Application:** [Swag Labs Demo Store](https://www.saucedemo.com/)
+## Project 1: Swag Labs Demo Store — Manual Testing
 
-### Testing Scope
+**Application:** https://www.saucedemo.com/
+
+**Testing type:** Manual functional testing
+
+### Scope
 - Login validation
-- Product listings and product details
-- Shopping cart functionality
+- Product details verification
+- Add-to-cart functionality
+- Remove-from-cart functionality
 - Checkout form validation
-- Navigation and usability
 
-### Test Artifacts
-- `test-cases.md` — planned test scenarios and execution results
-- `bug-report-template.md` — structured defect documentation
+### Test Execution Summary
 
-### Current Status
-- Test cases designed: 7
-- Test cases executed: 0
-- Confirmed bugs: 0
+| Metric | Result |
+|---|---:|
+| Test cases designed | 7 |
+| Test cases executed | 7 |
+| Passed | 7 |
+| Failed | 0 |
+| Confirmed defects identified | 0 |
 
-*These counts will be updated after testing. No defects have been claimed before execution.*
+### Test Documentation
+- [Test Cases and Execution Results](./test-cases.md)
+- [Bug Report Template](./bug-report-template.md)
 
-## Project 2: Mobile Game Testing
+The test results document the observed behaviour for each scenario. No confirmed defects were identified in these seven test cases.
 
-Planned testing areas:
+## Project 2: Mobile Game Testing — Planned
+
+Areas I intend to explore:
+- Login and navigation
 - Matchmaking and connection interruptions
 - App backgrounding and recovery
 - Gameplay behaviour
 - Reproducible bug reporting
 
-## My Testing Approach
+This project is planned work and has not yet been presented as completed testing.
 
-For each test, I'll document the preconditions, steps, expected result, actual result, and status. I'll report only issues that I actually observe and can reproduce.
+## Testing Approach
+
+For each test, I aim to document:
+- Preconditions and test steps
+- Expected and actual results
+- Execution status
+- Reproducible defects and supporting evidence, when applicable
 
 ## About Me
 
-I'm learning software testing fundamentals, test case design, and structured bug reporting while strengthening my AWS and Linux foundations.
+- B.Tech in Computer Science Engineering — 2025
+- AWS cloud computing internship experience
+- Practical exposure to Amazon S3 static website hosting
+- Learning manual testing, test case design, bug reporting, AWS fundamentals, and Linux basics
 
+## Contact and Profiles
+
+- GitHub: https://github.com/varshitsai
+
+I'm looking for entry-level opportunities where I can continue developing my skills and contribute to software quality.
