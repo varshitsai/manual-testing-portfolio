@@ -1,24 +1,29 @@
-
 # Bug Report Template
 
-Use this template for issues that you actually observe and can reproduce.
+Use this template to document unexpected behaviour observed during testing. Clearly distinguish personal observations from issues that have been reproduced or independently confirmed.
+
+## Bug ID
+[Unique identifier, e.g. BUG-001]
 
 ## Bug Summary
-[Short description of the issue]
+[Short, specific description of the issue]
 
 ## Environment
-- Device and OS:
-- Browser and version:
 - Application:
-- Date tested:
+- Application/build version:
+- Device:
+- Operating system and version:
+- Browser and version, if applicable:
+- Network conditions, if relevant:
+- Date and time tested:
 
 ## Preconditions
-[What must be set up before testing?]
+[Required setup before testing]
 
 ## Steps to Reproduce
-1. 
-2. 
-3. 
+1. [Action]
+2. [Action]
+3. [Action]
 
 ## Expected Result
 [What should happen?]
@@ -27,13 +32,23 @@ Use this template for issues that you actually observe and can reproduce.
 [What happened instead?]
 
 ## Reproducibility
-[How many attempts reproduced the issue?]
+- Attempts performed:
+- Attempts in which the issue occurred:
+- Frequency or pattern:
+- Retest notes:
 
 ## Severity
-[Explain the impact of the issue]
+[Impact on functionality or users: explain the rationale]
+
+## Priority
+[Suggested urgency for investigation: Low / Medium / High, with rationale if known]
 
 ## Evidence
-[Attach screenshots or a screen recording. Hide private information.]
+[Screenshot, screen recording, logs, or error message. State when evidence is unavailable. Remove private information.]
+
+## Additional Notes and Limitations
+[Relevant observations, unknowns, environmental limitations, or possible investigation areas. Do not present unverified causes as facts.]
 
 ## Status
-[Observed / Confirmed / Cannot reproduce / Resolved]
+[Observed / Reproduced / Cannot reproduce / Resolved — use only the status supported by available evidence.]
+
