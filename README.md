@@ -1,23 +1,23 @@
 # Manual Testing Portfolio
 
-Hi, I'm Varshit — a 2025 Computer Science Engineering graduate building practical skills in software quality assurance and manual testing.
+Hi, I'm Varshit, a 2025 Computer Science Engineering graduate building practical skills in software quality assurance and manual testing.
 
-This repository showcases my hands-on practice with test case design, functional testing, validation checks, and structured test documentation.
+This repository documents my hands-on practice with manual functional testing, test case design, validation checks, and structured test reporting.
 
-## Project 1: Swag Labs Demo Store — Manual Testing
+## Project 1: Swag Labs Demo Store
 
-**Application:** https://www.saucedemo.com/
-
+**Application:** [Swag Labs Demo Store](https://www.saucedemo.com/)  
 **Testing type:** Manual functional testing
 
 ### Scope
+
 - Login validation
 - Product details verification
 - Add-to-cart functionality
 - Remove-from-cart functionality
 - Checkout form validation
 
-### Test Execution Summary
+### Execution Summary
 
 | Metric | Result |
 |---|---:|
@@ -27,40 +27,42 @@ This repository showcases my hands-on practice with test case design, functional
 | Failed | 0 |
 | Confirmed defects identified | 0 |
 
+These results reflect the seven scenarios tested. They do not establish that the application has no defects.
+
 ### Test Documentation
+
 - [Test Cases and Execution Results](./test-cases.md)
 - [Bug Report Template](./bug-report-template.md)
 
-The test results document the observed behaviour for each scenario. No confirmed defects were identified in these seven test cases.
+## Project 2: eFootball Mobile Game Testing
 
-## Project 2: Mobile Game Testing — Planned
+An exploratory testing case study documenting an intermittently observed matchmaking responsiveness issue after switching between apps on an iPhone.
 
-Areas I intend to explore:
-- Login and navigation
-- Matchmaking and connection interruptions
-- App backgrounding and recovery
-- Gameplay behaviour
-- Reproducible bug reporting
+- [View eFootball Game Testing Case Study](https://github.com/varshitsai/efootball-game-testing)
+- [View Detailed Bug Report](https://github.com/varshitsai/efootball-game-testing/blob/main/bug-report.md)
+- [View Test Execution Log](https://github.com/varshitsai/efootball-game-testing/blob/main/test-execution-log.md)
 
-This project is planned work and has not yet been presented as completed testing.
+The original incident was documented retrospectively from personal recollection. Recent attempts did not reproduce the issue, and its root cause and fix remain unconfirmed.
 
 ## Testing Approach
 
 For each test, I aim to document:
+
 - Preconditions and test steps
 - Expected and actual results
 - Execution status
-- Reproducible defects and supporting evidence, when applicable
+- Reproducible defects and supporting evidence, when available
+- Testing limitations and observations
 
 ## About Me
 
 - B.Tech in Computer Science Engineering — 2025
 - AWS cloud computing internship experience
 - Practical exposure to Amazon S3 static website hosting
-- Learning manual testing, test case design, bug reporting, AWS fundamentals, and Linux basics
+- Developing skills in manual testing, bug reporting, AWS fundamentals, and Linux basics
 
-## Contact and Profiles
+## Contact
 
-- GitHub: https://github.com/varshitsai
+- GitHub: [varshitsai](https://github.com/varshitsai)
 
 I'm looking for entry-level opportunities where I can continue developing my skills and contribute to software quality.
